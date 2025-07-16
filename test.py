@@ -1,0 +1,1 @@
+print("Selamat, sudah berhasil menginstall PyCharm!")
