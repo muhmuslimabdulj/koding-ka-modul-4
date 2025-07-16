@@ -36,7 +36,7 @@ Rekomendasi: biarkan by default saja, lalu klik **Next >**
 
 ![SS-4](./screenshot/ss-4.png)
 
-6. Klik **Next >**
+6. Klik **Install**
 
 ![SS-5](./screenshot/ss-5.png)
 
