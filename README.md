@@ -54,13 +54,13 @@ Rekomendasi: **Reboot Now**, tetapi hati-hati pastikan tidak ada program lain di
 
 Untuk MacOS silahkan menyesuaikan mengikuti tutorial dari video berikut ini.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZVjQFjOI49c?si=DWeOQ1tzyr03Vgex" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[Instalasi di MacOS](https://www.youtube.com/watch?v=ZVjQFjOI49c&t=1s)
 
 #### Linux
 
 Untuk Linux silahkan menyesuaikan mengikuti tutorial dari video berikut ini.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K8C92DRzLQQ?si=2HvM0vsKbjbxfuQ7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[Instalasi di Linux](https://youtu.be/K8C92DRzLQQ?si=_LTYV7vp08B7p-4l)
 
 ## Mendownload proyek
 
