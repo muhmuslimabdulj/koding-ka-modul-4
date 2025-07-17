@@ -1,0 +1,11 @@
+CustomerID,Age,Gender,AnnualIncome,SpendingScore,BrowserTimeMinutes,Purchased
+1001,25,Male,35000,39,120,No
+1002,45,Female,68000,81,80,Yes
+1003,30,Female,48000,55,95,No
+1004,22,Male,25000,20,150,No
+1005,35,Female,52000,66,60,Yes
+1006,40,Male,58000,50,75,Yes
+1007,28,Female,31000,42,110,No
+1008,55,Male,72000,85,45,Yes
+1009,33,Female,41000,47,100,No
+1010,38,Male,61000,70,70,Yes

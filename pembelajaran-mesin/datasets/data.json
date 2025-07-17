@@ -1,0 +1,92 @@
+[
+  {
+    "CustomerID": 1001,
+    "Age": 25,
+    "Gender": "Male",
+    "AnnualIncome": 35000,
+    "SpendingScore": 39,
+    "BrowserTimeMinutes": 120,
+    "Purchased": "No"
+  },
+  {
+    "CustomerID": 1002,
+    "Age": 45,
+    "Gender": "Female",
+    "AnnualIncome": 68000,
+    "SpendingScore": 81,
+    "BrowserTimeMinutes": 80,
+    "Purchased": "Yes"
+  },
+  {
+    "CustomerID": 1003,
+    "Age": 30,
+    "Gender": "Female",
+    "AnnualIncome": 48000,
+    "SpendingScore": 55,
+    "BrowserTimeMinutes": 95,
+    "Purchased": "No"
+  },
+  {
+    "CustomerID": 1004,
+    "Age": 22,
+    "Gender": "Male",
+    "AnnualIncome": 25000,
+    "SpendingScore": 20,
+    "BrowserTimeMinutes": 150,
+    "Purchased": "No"
+  },
+  {
+    "CustomerID": 1005,
+    "Age": 35,
+    "Gender": "Female",
+    "AnnualIncome": 52000,
+    "SpendingScore": 66,
+    "BrowserTimeMinutes": 60,
+    "Purchased": "Yes"
+  },
+  {
+    "CustomerID": 1006,
+    "Age": 40,
+    "Gender": "Male",
+    "AnnualIncome": 58000,
+    "SpendingScore": 50,
+    "BrowserTimeMinutes": 75,
+    "Purchased": "Yes"
+  },
+  {
+    "CustomerID": 1007,
+    "Age": 28,
+    "Gender": "Female",
+    "AnnualIncome": 31000,
+    "SpendingScore": 42,
+    "BrowserTimeMinutes": 110,
+    "Purchased": "No"
+  },
+  {
+    "CustomerID": 1008,
+    "Age": 55,
+    "Gender": "Male",
+    "AnnualIncome": 72000,
+    "SpendingScore": 85,
+    "BrowserTimeMinutes": 45,
+    "Purchased": "Yes"
+  },
+  {
+    "CustomerID": 1009,
+    "Age": 33,
+    "Gender": "Female",
+    "AnnualIncome": 41000,
+    "SpendingScore": 47,
+    "BrowserTimeMinutes": 100,
+    "Purchased": "No"
+  },
+  {
+    "CustomerID": 1010,
+    "Age": 38,
+    "Gender": "Male",
+    "AnnualIncome": 61000,
+    "SpendingScore": 70,
+    "BrowserTimeMinutes": 70,
+    "Purchased": "Yes"
+  }
+]
